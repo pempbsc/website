@@ -23,7 +23,7 @@ export const footerLinks = [
     links: [
       {
         name: "Docs",
-        link: "https://pemp.gitbook.io/pemp/"
+        link: "https://pemp.gitbook.io/pemp/",
       },
       {
         name: "white paper",
